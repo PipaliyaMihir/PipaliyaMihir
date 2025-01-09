@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pipaliyamihir&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyamihir" /> </p>
-
+- 📫 How to reach me **mpipalia29@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
