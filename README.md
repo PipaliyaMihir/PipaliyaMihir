@@ -1,4 +1,4 @@
-![logo](https://github.com/PipaliyaMihir/PipaliyaMihir/blob/main/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner.gif)
+![logo](https://github.com/PipaliyaMihir/PipaliyaMihir/blob/main/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Pipaliya Mihir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
