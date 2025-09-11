@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pipaliya Mihir</h1>
-<h3 align="center">Python Developer | Machine Learning Enthusiast | Data Explorer</h3>
+<h3 align="center">Python Developer | Machine Learning | Data Explorer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pipaliyamihir&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyamihir" /> 
