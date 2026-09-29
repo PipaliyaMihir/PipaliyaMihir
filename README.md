@@ -176,16 +176,6 @@
 
 <br><br>
 
-### 🔥 Contribution Calendar
-
-<a href="https://github.com/PipaliyaMihir">
-<img src="https://ghchart.rshah.org/40c463/PipaliyaMihir"
-     alt="Mihir Pipaliya GitHub Contribution Calendar"
-     width="95%"/>
-</a>
-
-<br><br>
-
 ### ⚡ Streak & Consistency
 
 <img src="https://streak-stats.demolab.com?user=PipaliyaMihir&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"
